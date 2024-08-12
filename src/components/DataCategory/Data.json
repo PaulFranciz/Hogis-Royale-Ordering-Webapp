@@ -1,172 +1,164 @@
 {
-    "categories": [
-      {
-        "title": "Royale Special",
-        "image": "public/IMG_6013.jpg"
-      },
-      {
-        "title": "Rice",
-        "image": "public/rice.JPG"
-      },
-      {
-        "title": "Appetizer",
-        "image": "public/appetizers.jpg"
-      },
-      {
-        "title": "Sauce",
-        "image": "public/sauce.JPG"
-      },
-      {
-        "title": "Protein",
-        "image": "public/Protein.JPG"
-      },
-      {
-        "title": "Salad",
-        "image": "public/salad.jpg"
-      },
-      
-      {
-        "title": "Breakfast",
-        "image": "public/breakfast.JPG"
-      },
-      {
-        "title": "Coffee/Tea",
-        "image": "public/tea.JPG"
-      },
-      {
-        "title": "Fries",
-        "image": "public/fries.JPG"
-      },
-    
-      {
-        "title": "Light Meal",
-        "image": "public/light meal.JPG"
-      },
-      {
-        "title": "Grills",
-        "image": "public/grills.JPG"
-      },
-      {
-        "title": "SEA FOOD",
-        "image": "public/seafood.JPG"
-      },
-      {
-        "title": "Signature Meal",
-        "image": "public/signature meal.JPG"
-      },
-     
-      {
-        "title": "Peppersoup",
-        "image": "public/peppersoup.JPG"
-      },
-      {
-        "title": "Soup",
-        "image": "public/soup.jpg"
-      }, {
-        "title": "Swallow",
-        "image": "public/swallow.jpg"
-      },
-     
-      {
-        "title": "Natives",
-        "image": "public/native.JPG"
-      },
-      
-      {
-        "title": "Chinese",
-        "image": "public/chinese.JPG"
-      },
-      {
-        "title": "Asian",
-        "image": "public/asian.JPG"
-      },
-      {
-        "title": "Indian",
-        "image": "public/indian.JPG"
-      },
-      {
-        "title": "Continental",
-        "image":"public/continental.JPG"
-      },
-
-      {
-        "title": "Dessert",
-        "image": "public/dessert.JPG"
-      }, 
-      {
-        "title": "Pastry",
-        "image": "public/pastries.JPG"
-      },
-      {
-        "title": "SOFT DRINKS / WATER",
-        "image": "public/softdrink.JPG"
-      }, 
-      {
-        "title": "Juice",
-        "image": "public/juice.JPG"
-      }, 
-      {
-        "title": "Cream",
-        "image": "public/cream.JPG"
-      },
-      {
-        "title": "Beer",
-        "image": "public/beer.JPG"
-      },
-     
-      {
-        "title": "Bitters",
-        "image": "public/bitters.jpg"
-      },
-      {
-        "title": "Energy Drinks",
-        "image": "public/energy-drink.JPG"
-      },
-      {
-        "title": "Champagne",
-        "image": "public/champagne.JPG"
-      },
-      {
-        "title": "Mocktails",
-        "image": "public/mocktail.JPG"
-      },
-      {
-        "title": "Cocktail",
-        "image": "public/cocktail.JPG"
-      },
-      {
-        "title": "Vodka",
-        "image": "public/vodka.JPG"
-      },
-      {
-        "title": "Whisky",
-        "image": "public/wiskey.JPG"
-      },
-      {
-        "title": "Brandy",
-        "image": "public/brandy.JPG"
-      },
-      {
-        "title": "Sparkling Wine",
-        "image": "public/sparkling wine.JPG"
-      },
-      {
-        "title": "Rose Wine",
-        "image": "public/rose wine.JPG"
-      },
-      
-      {
-        "title": "White Wine",
-        "image": "public/white wine.JPG"
-      },
-      {
-        "title": "Red Wine",
-        "image": "public/red wine.JPG"
-      },
-      {
-        "title": "Non-Alchoholic Sweet Wine",
-        "image": "public/non-alcoholic sweet wine.JPG"
-      }
-   
-    ]
-  }
+  "categories": [
+    {
+      "title": "Royale Special",
+      "image": "/IMG_6013.jpg"
+    },
+    {
+      "title": "Rice",
+      "image": "/rice.JPG"
+    },
+    {
+      "title": "Appetizer",
+      "image": "/appetizers.jpg"
+    },
+    {
+      "title": "Sauce",
+      "image": "/sauce.JPG"
+    },
+    {
+      "title": "Protein",
+      "image": "/Protein.JPG"
+    },
+    {
+      "title": "Salad",
+      "image": "/salad.jpg"
+    },
+    {
+      "title": "Breakfast",
+      "image": "/breakfast.JPG"
+    },
+    {
+      "title": "Coffee/Tea",
+      "image": "/tea.JPG"
+    },
+    {
+      "title": "Fries",
+      "image": "/fries.JPG"
+    },
+    {
+      "title": "Light Meal",
+      "image": "/light meal.JPG"
+    },
+    {
+      "title": "Grills",
+      "image": "/grills.JPG"
+    },
+    {
+      "title": "SEA FOOD",
+      "image": "/seafood.JPG"
+    },
+    {
+      "title": "Signature Meal",
+      "image": "/signature meal.JPG"
+    },
+    {
+      "title": "Peppersoup",
+      "image": "/peppersoup.JPG"
+    },
+    {
+      "title": "Soup",
+      "image": "/soup.jpg"
+    },
+    {
+      "title": "Swallow",
+      "image": "/swallow.jpg"
+    },
+    {
+      "title": "Natives",
+      "image": "/native.JPG"
+    },
+    {
+      "title": "Chinese",
+      "image": "/chinese.JPG"
+    },
+    {
+      "title": "Asian",
+      "image": "/asian.JPG"
+    },
+    {
+      "title": "Indian",
+      "image": "/indian.JPG"
+    },
+    {
+      "title": "Continental",
+      "image": "/continental.JPG"
+    },
+    {
+      "title": "Dessert",
+      "image": "/dessert.JPG"
+    },
+    {
+      "title": "Pastry",
+      "image": "/pastries.JPG"
+    },
+    {
+      "title": "SOFT DRINKS / WATER",
+      "image": "/softdrink.JPG"
+    },
+    {
+      "title": "Juice",
+      "image": "/juice.JPG"
+    },
+    {
+      "title": "Cream",
+      "image": "/cream.JPG"
+    },
+    {
+      "title": "Beer",
+      "image": "/beer.JPG"
+    },
+    {
+      "title": "Bitters",
+      "image": "/bitters.jpg"
+    },
+    {
+      "title": "Energy Drinks",
+      "image": "/energy-drink.JPG"
+    },
+    {
+      "title": "Champagne",
+      "image": "/champagne.JPG"
+    },
+    {
+      "title": "Mocktails",
+      "image": "/mocktail.JPG"
+    },
+    {
+      "title": "Cocktail",
+      "image": "/cocktail.JPG"
+    },
+    {
+      "title": "Vodka",
+      "image": "/vodka.JPG"
+    },
+    {
+      "title": "Whisky",
+      "image": "/wiskey.JPG"
+    },
+    {
+      "title": "Brandy",
+      "image": "/brandy.JPG"
+    },
+    {
+      "title": "Sparkling Wine",
+      "image": "/sparkling wine.JPG"
+    },
+    {
+      "title": "Rose Wine",
+      "image": "/rose wine.JPG"
+    },
+    {
+      "title": "White Wine",
+      "image": "/white wine.JPG"
+    },
+    {
+      "title": "Red Wine",
+      "image": "/red wine.JPG"
+    },
+    {
+      "title": "Non-Alchoholic Sweet Wine",
+      "image": "/non-alcoholic sweet wine.JPG"
+    }
+  ]
+}
