@@ -1,0 +1,138 @@
+.categories {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.categories-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.categories-info h3 {
+  margin: 0;
+}
+
+.category-container {
+  display: flex;
+  gap: 15px;
+  width: 100%;
+}
+
+.category-container.list-view {
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  padding-bottom: 10px;
+}
+
+.category-container.grid-view {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  gap: 10px;
+}
+
+.category {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.list-view .category {
+  flex: 0 0 auto;
+  width: 100px;
+}
+
+.category-image-container {
+  width: 80px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.category-image {
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 9px;
+}
+
+.category-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  word-wrap: break-word;
+  max-width: 100%;
+  color: #fff;
+  margin-top: 3px;
+}
+
+  .pagination {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+  }
+
+  .view-toggle {
+    font-size: 1.2rem;
+    margin-right: 15px;
+    color: white;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  }
+
+  .list {
+    font-size: 1.6rem;
+  }
+  
+  .pagination button {
+    font-weight: 600;
+    margin: 0 5px;
+    padding: 7px 12px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    color: #000;
+    cursor: pointer;
+  }
+  
+  .pagination button.active {
+    background-color: transparent;
+    color: #fff;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .category-container.grid-view {
+      grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+    }
+  
+    .category-image-container {
+      width: 60px;
+      height: 60px;
+    }
+  
+    .category-title {
+      font-size: 0.7rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .category-container.grid-view {
+      grid-template-columns: repeat(auto-fill, minmax(70px, 1fr));
+    }
+  
+    .category-image-container {
+      width: 50px;
+      height: 50px;
+    }
+  
+    .category-title {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+    }
+  }

@@ -1,0 +1,2760 @@
+[
+    
+    {
+      "name": "PEPSI/MIRINDA/7UP",
+      "category": "SOFT DRINKS / WATER",
+      "price": 500
+    },
+    {
+      "name": "SCHWEEPS GREEN",
+      "category": "SOFT DRINKS / WATER",
+      "price": 500
+    },
+    {
+      "name": "SPRITE",
+      "category": "SOFT DRINKS / WATER",
+      "price": 500
+    },
+    {
+      "name": "COKE",
+      "category": "SOFT DRINKS / WATER",
+      "price": 500
+    },
+    {
+      "name": "MALTA GUINESS",
+      "category": "SOFT DRINKS / WATER",
+      "price": 800
+    },
+    {
+      "name": "AMSTEL MALTA",
+      "category": "SOFT DRINKS / WATER",
+      "price": 800
+    },
+    {
+      "name": "MALTINA",
+      "category": "SOFT DRINKS / WATER",
+      "price": 800
+    },
+    {
+      "name": "WATER (75CL)",
+      "category": "SOFT DRINKS / WATER",
+      "price": 300
+    },
+    {
+      "name": "FAYROUZ",
+      "category": "SOFT DRINKS / WATER",
+      "price": 500
+    },
+    {
+      "name": "PACK OF JUICE",
+      "category": "SOFT DRINKS / WATER",
+      "price": 1000
+    },
+    {
+      "name": "CRANBERRY JUICE",
+      "category": "SOFT DRINKS / WATER",
+      "price": 500
+    },
+    {
+      "name": "HOLLANDIA YOGHURT",
+      "category": "SOFT DRINKS / WATER",
+      "price": 2500
+    },
+    {
+      "name": "DUBIC MALT",
+      "category": "SOFT DRINKS / WATER",
+      "price": 800
+    },
+    {
+      "name": "FANTA",
+      "category": "SOFT DRINKS / WATER",
+      "price": 500
+    },
+    {
+      "name": "TONIC WATER",
+      "category": "SOFT DRINKS / WATER",
+      "price": 500
+    },
+    {
+      "name": "SODA WATER",
+      "category": "SOFT DRINKS / WATER",
+      "price": 500
+    },
+    {
+      "name": "TEEM BITTER LEMON",
+      "category": "SOFT DRINKS / WATER",
+      "price": 500
+    },
+    {
+      "name": "AQUAFINA TABLE WATER",
+      "category": "SOFT DRINKS / WATER",
+      "price": 400
+    },
+    {
+      "name": "VITAMILK",
+      "category": "SOFT DRINKS / WATER",
+      "price": 2000
+    },
+    {
+      "name": "CEDAR DELIGHT",
+      "category": "SOFT DRINKS / WATER",
+      "price": 1000
+    },
+    {
+      "name": "CEDAR YOGHURT (SMALL)",
+      "category": "SOFT DRINKS / WATER",
+      "price": 1000
+    },
+    {
+      "name": "CEDAR YOGHURT (BIG)",
+      "category": "SOFT DRINKS / WATER",
+      "price": 1500
+    },
+    {
+      "name": "COKE (CAN)",
+      "category": "SOFT DRINKS / WATER",
+      "price": 700
+    },
+    {
+      "name": "WATER (150CL)",
+      "category": "SOFT DRINKS / WATER",
+      "price": 400
+    },
+    {
+      "name": "PURE HEAVEN CAN",
+      "category": "SOFT DRINKS / WATER",
+      "price": 1300
+    },
+    {
+      "name": "TIGER NUT",
+      "category": "SOFT DRINKS / WATER",
+      "price": 1200
+    },
+   
+
+
+
+    {
+      "name": "GUINESS SMOOTH",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "BIG SMIRNOFF ICE",
+      "category": "BEER",
+      "price": 1500
+    },
+    {
+      "name": "LEGEND TWIST",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "STAR",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "STAR RADLER",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "GULDER",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "SMALL STOUT",
+      "category": "BEER",
+      "price": 800
+    },
+    {
+      "name": "MEDIUM STOUT",
+      "category": "BEER",
+      "price": 1200
+    },
+    {
+      "name": "SMALL SMIRNOFF ICE",
+      "category": "BEER",
+      "price": 800
+    },
+    {
+      "name": "TROPHY",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "GOLDBERG",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "LIFE BEER",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "33 EXPORT",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "LARGE HEINEKEN",
+      "category": "BEER",
+      "price": 1500
+    },
+    {
+      "name": "BUDWISER BIG",
+      "category": "BEER",
+      "price": 1500
+    },
+    {
+      "name": "LARGE STOUT",
+      "category": "BEER",
+      "price": 1500
+    },
+    {
+      "name": "BIG LEGEND",
+      "category": "BEER",
+      "price": 1500
+    },
+    {
+      "name": "HERO",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "ORIGIN BEER",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "TIGER",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "DESPERADOS",
+      "category": "BEER",
+      "price": 1200
+    },
+    {
+      "name": "TROPHY STOUT",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "CHAMPION",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "HARP",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "BIG SMIRNOFF ICE",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "FLYING FISH",
+      "category": "BEER",
+      "price": 1000
+    },
+    {
+      "name": "CASTLE LITE",
+      "category": "BEER",
+      "price": 1000
+    },
+   
+
+
+
+
+    {
+      "name": "JIEG JIU HOUSA 125ML",
+      "category": "BRANDY",
+      "price": 3000
+    },
+    {
+      "name": "JIEG JIU HOUSA 700ML",
+      "category": "BRANDY",
+      "price": 13000
+    },
+    {
+      "name": "ZONG HUA JING JUI (BIG)",
+      "category": "BRANDY",
+      "price": 8000
+    },
+    {
+      "name": "BAZOOKA",
+      "category": "BRANDY",
+      "price": 6500
+    },
+    {
+      "name": "REMY MARTINS",
+      "category": "BRANDY",
+      "price": 65000
+    },
+    {
+      "name": "MARTELL",
+      "category": "BRANDY",
+      "price": 60000
+    },
+    {
+      "name": "HENNESSY VSOP",
+      "category": "BRANDY",
+      "price": 180000
+    },
+    {
+      "name": "HENNESSY VS",
+      "category": "BRANDY",
+      "price": 120000
+    },
+    {
+      "name": "HENNESSY XO",
+      "category": "BRANDY",
+      "price": 480000
+    },
+    {
+      "name": "GLENLIVET",
+      "category": "BRANDY",
+      "price": 75000
+    },
+    {
+      "name": "MARTINI RED",
+      "category": "BRANDY",
+      "price": 13000
+    },
+    {
+      "name": "BAILEYS (SMALL)",
+      "category": "BRANDY",
+      "price": 7500
+    },
+    {
+      "name": "BAILEYS (BIG)",
+      "category": "BRANDY",
+      "price": 13000
+    },
+    {
+      "name": "ROSEMONT WINE",
+      "category": "BRANDY",
+      "price": 4000
+    },
+    {
+      "name": "HENNESSY PARADISE",
+      "category": "BRANDY",
+      "price": 550000
+    },
+    {
+      "name": "JOHNNIE WALKER BLACK LABEL",
+      "category": "BRANDY",
+      "price": 30000
+    },
+    {
+      "name": "JACK DANIELS SINGLE",
+      "category": "BRANDY",
+      "price": 18000
+    },
+    {
+      "name": "GLENFFIDICH 12 YEARS",
+      "category": "BRANDY",
+      "price": 80000
+    },
+    {
+      "name": "GLENFFIDICH 15 YEARS",
+      "category": "BRANDY",
+      "price": 120000
+    },
+    {
+      "name": "GLENFFIDICH 18 YEARS",
+      "category": "BRANDY",
+      "price": 180000
+    },
+    {
+      "name": "JOHNNIE WALKER RED LABEL",
+      "category": "BRANDY",
+      "price": 15000
+    },
+    {
+      "name": "JOHNNIE WALKER DOUBLE BLACK LABEL",
+      "category": "BRANDY",
+      "price": 40000
+    },
+    {
+      "name": "JOHNNIE WALKER GOLD LABEL",
+      "category": "BRANDY",
+      "price": 75000
+    },
+    {
+      "name": "JOHNNIE WALKER BLUE LABEL",
+      "category": "BRANDY",
+      "price": 220000
+    },
+    {
+      "name": "JACK DANIELS BIG",
+      "category": "BRANDY",
+      "price": 45000
+    },
+    {
+      "name": "JACK DANIELS SMALL",
+      "category": "BRANDY",
+      "price": 25000
+    },
+    {
+      "name": "JAMESON",
+      "category": "BRANDY",
+      "price": 20000
+    },
+    {
+      "name": "BLACK LABEL (BIG)",
+      "category": "BRANDY",
+      "price": 32000
+    },
+    {
+      "name": "BLACK LABEL (SMALL)",
+      "category": "BRANDY",
+      "price": 23000
+    },
+    {
+      "name": "FOUR COUSINS",
+      "category": "BRANDY",
+      "price": 4000
+    },
+    {
+      "name": "TRIPLE X",
+      "category": "BRANDY",
+      "price": 8000
+    },
+    {
+      "name": "GLENMORANGE",
+      "category": "BRANDY",
+      "price": 75000
+    },
+    {
+      "name": "CAMPAIGN 250ML",
+      "category": "BRANDY",
+      "price": 1500
+    },
+    {
+      "name": "MCC DESSERT WINE",
+      "category": "BRANDY",
+      "price": 25000
+    },
+    {
+      "name": "ORIGINAL RUM",
+      "category": "BRANDY",
+      "price": 5000
+    },
+    {
+      "name": "NEMIROFF HONEY PEPPER",
+      "category": "BRANDY",
+      "price": 4500
+    },
+    {
+      "name": "MOET",
+      "category": "BRANDY",
+      "price": 70000
+    },
+    {
+      "name": "MOET & CHANDON",
+      "category": "BRANDY",
+      "price": 80000
+    },
+    {
+      "name": "COURVOISIER",
+      "category": "BRANDY",
+      "price": 35000
+    },
+    {
+      "name": "MARTINI EXTRA DRY",
+      "category": "BRANDY",
+      "price": 13000
+    },
+    {
+      "name": "MARTINI BIANCO",
+      "category": "BRANDY",
+      "price": 13000
+    },
+
+
+
+
+    {
+        "name": "POWER HORSE",
+        "category": "ENERGY DRINKS",
+        "price": 1700
+      },
+      {
+        "name": "CLIMAX",
+        "category": "ENERGY DRINKS",
+        "price": 1500
+      },
+      {
+        "name": "FEARLESS",
+        "category": "ENERGY DRINKS",
+        "price": 800
+      },
+      {
+        "name": "MONSTER",
+        "category": "ENERGY DRINKS",
+        "price": 1500
+      },
+      {
+        "name": "ZAGG",
+        "category": "ENERGY DRINKS",
+        "price": 500
+      },
+     
+
+
+
+
+      {
+        "name": "RED LABEL",
+        "category": "WHISKY",
+        "price": 17000
+      },
+      {
+        "name": "BLACK LABEL",
+        "category": "WHISKY",
+        "price": 40000
+      },
+      {
+        "name": "JAMESON GREEN",
+        "category": "WHISKY",
+        "price": 45000
+      },
+      {
+        "name": "JACK DANIELS",
+        "category": "WHISKY",
+        "price": 35000
+      },
+      {
+        "name": "GOLD LABEL",
+        "category": "WHISKY",
+        "price": 62000
+      },
+      {
+        "name": "SINGLETON",
+        "category": "WHISKY",
+        "price": 90000
+      },
+      {
+        "name": "SCOTCH LEADER",
+        "category": "WHISKY",
+        "price": 7000
+      },
+      {
+        "name": "JAMESON BLACK",
+        "category": "WHISKY",
+        "price": 70000
+      },
+      {
+        "name": "CAPTAIN MORGAN",
+        "category": "WHISKY",
+        "price": 10000
+      },
+      {
+        "name": "AMERICAN HONEY",
+        "category": "WHISKY",
+        "price": 22000
+      },
+      {
+        "name": "McDOWELLS",
+        "category": "WHISKY",
+        "price": 5000
+      },
+      {
+        "name": "JOHN BANNERMAN'S",
+        "category": "WHISKY",
+        "price": 12000
+      },
+      {
+        "name": "Glenfiddich 18",
+        "category": "WHISKY",
+        "price": 200000
+      },
+      {
+        "name": "DOUBLE BLACK",
+        "category": "WHISKY",
+        "price": 1000
+      },
+      {
+        "name": "WILLIAM LAWSON",
+        "category": "WHISKY",
+        "price": 17000
+      },
+      {
+        "name": "GLENFIDDICH (12 YEARS)",
+        "category": "WHISKY",
+        "price": 75000
+      },
+      {
+        "name": "GLENFIDDICH (15 YEARS)",
+        "category": "WHISKY",
+        "price": 90000
+      },
+      {
+        "name": "GLINFEDISH [18 YEARS]",
+        "category": "WHISKY",
+        "price": 90000
+      },
+      {
+        "name": "MALIBU",
+        "category": "WHISKY",
+        "price": 6000
+      },
+     
+
+
+
+
+      {
+        "name": "SNAPP",
+        "category": "CIDERS",
+        "price": 1000
+      },
+      {
+        "name": "CORONA",
+        "category": "CIDERS",
+        "price": 1000
+      },
+      {
+        "name": "SAVANNA",
+        "category": "CIDERS",
+        "price": 1000
+      },
+      {
+        "name": "TEQUILA TOT",
+        "category": "CIDERS",
+        "price": 2000
+      },
+      
+
+
+
+      {
+        "name": "OCTOPUS",
+        "category": "SEA FOOD",
+        "price": 5000
+      },
+      {
+        "name": "SEAFOOD BOIL",
+        "category": "SEA FOOD",
+        "price": 18000
+      },
+      {
+        "name": "SEAFOOD PLATTER",
+        "category": "SEA FOOD",
+        "price": 18000
+      },
+      {
+        "name": "MAYO ROLLS",
+        "category": "SEA FOOD",
+        "price": 4000
+      },
+      {
+        "name": "MIXED GRILL",
+        "category": "SEA FOOD",
+        "price": 15000
+      },
+      {
+        "name": "CHEF SPECIAL SEAFOOD BOIL",
+        "category": "SEA FOOD",
+        "price": 25000
+      },
+      {
+        "name": "ROYAL BOAT",
+        "category": "SEA FOOD",
+        "price": 40000
+      },
+      {
+        "name": "FISHERMANS PRIDE",
+        "category": "SEA FOOD",
+        "price": 25000
+      },
+      {
+        "name": "PRAWNS(1 PCS)",
+        "category": "SEA FOOD",
+        "price": 2000
+      },
+      {
+        "name": "JERK SHRIMPS SKEWERS",
+        "category": "SEA FOOD",
+        "price": 5000
+      },
+      {
+        "name": "MAYO ROYALS",
+        "category": "SEA FOOD",
+        "price": 6000
+      },
+      {
+        "name": "PEPPERED SNAIL WITH STEAMED VEGGIES OR GARLIC BUTTER POTATOES",
+        "category": "SEA FOOD",
+        "price": 6000
+      },
+      {
+        "name": "SEAFOOD PASTA",
+        "category": "SEA FOOD",
+        "price": 6000
+      },
+      {
+        "name": "SEAFOOD PASTA WITH GRILLED PRAWNS OR FISH FILLETS",
+        "category": "SEA FOOD",
+        "price": 14000
+      },
+      {
+        "name": "RICE PLATTER",
+        "category": "SEA FOOD",
+        "price": 25000
+      },
+      {
+        "name": "PRAWNS",
+        "category": "SEA FOOD",
+        "price": 8000
+      },
+      {
+        "name": "MOROCAN SEAFOOD",
+        "category": "SEA FOOD",
+        "price": 15000
+      },
+      {
+        "name": "PRAWNS PROVENCALE",
+        "category": "SEA FOOD",
+        "price": 10000
+      },
+      {
+        "name": "GRILLED SALMON",
+        "category": "SEA FOOD",
+        "price": 15000
+      },
+      {
+        "name": "SEAFOOD SWORD",
+        "category": "SEA FOOD",
+        "price": 12000
+      },
+
+
+
+      
+      {
+        "name": "LONG ISLAND",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "TEQUILA SUNRISE",
+        "category": "COCKTAIL",
+        "price": 3500
+      },
+      {
+        "name": "FROZEN MARGARITA",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "DARK & STORMY",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "CAPERINER",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "SCREW DRIVER",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "QUIET STORM",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "PINA COLADA",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "CONTREAU TOT",
+        "category": "COCKTAIL",
+        "price": 2000
+      },
+      {
+        "name": "SEX IN A DRIVE WAY",
+        "category": "COCKTAIL",
+        "price": 3500
+      },
+      {
+        "name": "ADIOS MOTHERFUCKER",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "JACK AND COKE",
+        "category": "COCKTAIL",
+        "price": 3000
+      },
+      {
+        "name": "RUM AND COKE",
+        "category": "COCKTAIL",
+        "price": 3000
+      },
+      {
+        "name": "TOM COLLINS",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "GIN FIZZ",
+        "category": "COCKTAIL",
+        "price": 3500
+      },
+      {
+        "name": "SALTY DOG",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "GIN AND TONIC",
+        "category": "COCKTAIL",
+        "price": 3000
+      },
+      {
+        "name": "MOSCOW MULE",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "LEMONADE",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "MAI TAI",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "PASSION FRUIT MARTINI",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "MOJITO",
+        "category": "COCKTAIL",
+        "price": 3000
+      },
+      {
+        "name": "COSMOPOLITAN",
+        "category": "COCKTAIL",
+        "price": 3500
+      },
+      {
+        "name": "OLD FASHION",
+        "category": "COCKTAIL",
+        "price": 3000
+      },
+      {
+        "name": "WHISKEY HIGHBALL",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "DARK SAINT",
+        "category": "COCKTAIL",
+        "price": 4000
+      },
+      {
+        "name": "SEX ON THE BEACH",
+        "category": "COCKTAIL",
+        "price": 3000
+      },
+      {
+        "name": "HENNESSY BERRY",
+        "category": "COCKTAIL",
+        "price": 3500
+      },
+
+
+
+
+
+
+      {
+      "name": "VIRGIN MOJITO",
+      "category": "MOCKTAILS",
+      "price": 3500
+    },
+    {
+      "name": "FRUIT PUNCH",
+      "category": "MOCKTAILS",
+      "price": 3500
+    },
+    {
+      "name": "CROWN ROYAL PEACH",
+      "category": "MOCKTAILS",
+      "price": 4000
+    },
+    {
+      "name": "CHAMPMAN",
+      "category": "MOCKTAILS",
+      "price": 2000
+    },
+    {
+      "name": "STRAWBERRY DAIQUIRI",
+      "category": "MOCKTAILS",
+      "price": 2000
+    },
+    {
+      "name": "CHAPMAN",
+      "category": "MOCKTAILS",
+      "price": 3000
+    },
+    {
+      "name": "ATOMIC CART",
+      "category": "MOCKTAILS",
+      "price": 2000
+    },
+    {
+      "name": "YELLOW JACKET",
+      "category": "MOCKTAILS",
+      "price": 2000
+    },
+    {
+      "name": "PLASTIC CHAPMAN",
+      "category": "MOCKTAILS",
+      "price": 1500
+    },
+    {
+      "name": "POUCH CHAPMAN",
+      "category": "MOCKTAILS",
+      "price": 1000
+    },
+    {
+      "name": "ROY ROGERS",
+      "category": "MOCKTAILS",
+      "price": 3000
+    },
+    {
+      "name": "WILDCAT COOLER",
+      "category": "MOCKTAILS",
+      "price": 2500
+    },
+    {
+      "name": "COCONUT CUCUMBER LIME AND MINT COOLER",
+      "category": "MOCKTAILS",
+      "price": 3000
+    },
+    {
+      "name": "VIRGIN CUCUMBER GIMLET",
+      "category": "MOCKTAILS",
+      "price": 2500
+    },
+    {
+      "name": "VIRGIN COLADA",
+      "category": "MOCKTAILS",
+      "price": 4000
+    },
+
+
+
+
+    {
+        "name": "BITTERS",
+        "category": "BITTERS",
+        "price": 1000
+      },
+      {
+        "name": "ORIGIN BITTERS (PET)",
+        "category": "BITTERS",
+        "price": 1500
+      },
+      {
+        "name": "ORIGIN BIG BOTTLE",
+        "category": "BITTERS",
+        "price": 4000
+      },
+      {
+        "name": "KOLAOALAGBO",
+        "category": "BITTERS",
+        "price": 2000
+      },
+      {
+        "name": "ODOGWU BITTERS",
+        "category": "BITTERS",
+        "price": 1000
+      },
+      {
+        "name": "1960 BITTERS(SMALL)",
+        "category": "BITTERS",
+        "price": 1500
+      },
+      {
+        "name": "ELVITA BITTERS",
+        "category": "BITTERS",
+        "price": 1000
+      },
+      {
+        "name": "CAMPARI (BIG)",
+        "category": "BITTERS",
+        "price": 22000
+      },
+      {
+        "name": "CAMPARI MEDIUM",
+        "category": "BITTERS",
+        "price": 15000
+      },
+    
+
+
+
+      {
+        "name": "CREAME OF CHICKEN SOUP",
+        "category": "CHINESE",
+        "price": 4000
+      },
+      {
+        "name": "HOT AND SOUR SOUP",
+        "category": "CHINESE",
+        "price": 4000
+      },
+      {
+        "name": "NASI GORENG RICE",
+        "category": "CHINESE",
+        "price": 13000
+      },
+      {
+        "name": "BEEF FRIED RICE",
+        "category": "CHINESE",
+        "price": 8000
+      },
+      {
+        "name": "CHEF SIGNATURE",
+        "category": "CHINESE",
+        "price": 15000
+      },
+      {
+        "name": "SHRIMPS FRIED RICE",
+        "category": "CHINESE",
+        "price": 9000
+      },
+      {
+        "name": "CLASSIC ONION SOUP",
+        "category": "CHINESE",
+        "price": 4000
+      },
+      {
+        "name": "CHICKEN CORN SOUP",
+        "category": "CHINESE",
+        "price": 4000
+      },
+
+
+
+    {
+      "name": "CLASSIC COBB SALAD",
+      "category": "CONTINENTAL",
+      "price": 10000
+    },
+    {
+      "name": "SHREDDED BEEF SALAD",
+      "category": "CONTINENTAL",
+      "price": 8000
+    },
+    {
+      "name": "RUSSIAN SALAD",
+      "category": "CONTINENTAL",
+      "price": 7000
+    },
+    {
+      "name": "HOGIS STYLE CHICKEN SALAD",
+      "category": "CONTINENTAL",
+      "price": 9000
+    },
+
+
+
+
+    {
+        "name": "ALOO MATAR (VEGETARIAN)",
+        "category": "INDIAN",
+        "price": 8500
+      },
+      {
+        "name": "BUTTER CHICKEN",
+        "category": "INDIAN",
+        "price": 9000
+      },
+      {
+        "name": "CHICKEN TIKKA MASALA",
+        "category": "INDIAN",
+        "price": 9000
+      },
+      {
+        "name": "INDIAN CHICKEN CURRY",
+        "category": "INDIAN",
+        "price": 9500
+      },
+
+
+
+
+
+
+      {
+        "name": "PRAWNS IN VERGETABLE SAUCE",
+        "category": "ASIAN",
+        "price": 15000
+      },
+      {
+        "name": "FISH IN OYSTER SAUCE",
+        "category": "ASIAN",
+        "price": 9000
+      },
+      {
+        "name": "SHREDDED BEEF WITH GREE PEPPER AND ONIONS",
+        "category": "ASIAN",
+        "price": 8500
+      },
+      {
+        "name": "GOVERNOR'S SPECIAL",
+        "category": "ASIAN",
+        "price": 15000
+      },
+      {
+        "name": "SWEET AND SOUR COMBO",
+        "category": "ASIAN",
+        "price": 12000
+      },
+
+
+
+      {
+        "name": "CATFISH PEPPERSOUP",
+        "category": "PEPPERSOUP",
+        "price": 4500
+      },
+      {
+        "name": "GOAT MEAT PEPPERSOUP",
+        "category": "PEPPERSOUP",
+        "price": 4500
+      },
+      {
+        "name": "CHICKEN PEPPERSOUP",
+        "category": "PEPPERSOUP",
+        "price": 4000
+      },
+      {
+        "name": "COW LEG/ COW TAIL PEPPERSOUP",
+        "category": "PEPPERSOUP",
+        "price": 4500
+      },
+      {
+        "name": "CROAKER FISH PEPPERSOUP",
+        "category": "PEPPERSOUP",
+        "price": 4000
+      },
+      {
+        "name": "ASSORTED MEAT PEPPERSOUP",
+        "category": "PEPPERSOUP",
+        "price": 4000
+      },
+      {
+        "name": "CAT FISH PEPPERSOUP (PART)",
+        "category": "PEPPERSOUP",
+        "price": 4000
+      },
+      {
+        "name": "CAT FISH PEPPERSOUP (FULL FISH)",
+        "category": "PEPPERSOUP",
+        "price": 15000
+      },
+
+
+
+
+      {
+        "name": "FUFU",
+        "category": "SWALLOW",
+        "price": 1200
+      },
+      {
+        "name": "EBA",
+        "category": "SWALLOW",
+        "price": 1200
+      },
+      {
+        "name": "POUNDO",
+        "category": "SWALLOW",
+        "price": 1500
+      },
+      {
+        "name": "OAT MEAL",
+        "category": "SWALLOW",
+        "price": 1500
+      },
+      {
+        "name": "WHEAT",
+        "category": "SWALLOW",
+        "price": 1500
+      },
+      {
+        "name": "PLANTAIN FLOUR",
+        "category": "SWALLOW",
+        "price": 1500
+      },
+      {
+        "name": "SEMO",
+        "category": "SWALLOW",
+        "price": 1500
+      },
+
+
+
+
+      {
+        "name": "SWEET POTATO CHIPS",
+        "category": "FRIES",
+        "price": 1500
+      },
+      {
+        "name": "FRIED YAM",
+        "category": "FRIES",
+        "price": 1500
+      },
+      {
+        "name": "FRENCH FRIES",
+        "category": "FRIES",
+        "price": 2500
+      },
+      {
+        "name": "YAM CHIPS",
+        "category": "FRIES",
+        "price": 1500
+      },
+      {
+        "name": "CRUNCHY PLANTAIN CHIPS",
+        "category": "FRIES",
+        "price": 1000
+      },
+      {
+        "name": "FRIED PLANTAIN",
+        "category": "FRIES",
+        "price": 1500
+      },
+      {
+        "name": "FRIES AND CHICKEN",
+        "category": "FRIES",
+        "price": 4000
+      },
+
+
+
+
+
+      {
+        "name": "STEW",
+        "category": "SAUCE",
+        "price": 1000
+      },
+      {
+        "name": "GIZZARD SAUCE",
+        "category": "SAUCE",
+        "price": 4000
+      },
+      {
+        "name": "BEANS",
+        "category": "SAUCE",
+        "price": 2000
+      },
+      {
+        "name": "JUMBO PRAWN SAUCE",
+        "category": "SAUCE",
+        "price": 9000
+      },
+      {
+        "name": "BEEF IN MUSHROOM OYSTER SAUCE",
+        "category": "SAUCE",
+        "price": 5500
+      },
+      {
+        "name": "SNAIL SAUCE",
+        "category": "SAUCE",
+        "price": 6000
+      },
+      {
+        "name": "EGG SAUCE",
+        "category": "SAUCE",
+        "price": 2000
+      },
+      {
+        "name": "VEGETABLE SAUCE",
+        "category": "SAUCE",
+        "price": 1500
+      },
+
+
+
+
+
+      {
+        "name": "EGUSI SOUP",
+        "category": "SOUP",
+        "price": 2500
+      },
+      {
+        "name": "SEA FOOD OKRO",
+        "category": "SOUP",
+        "price": 7000
+      },
+      {
+        "name": "EDIKAIKONG (VEGETABLE SOUP)",
+        "category": "SOUP",
+        "price": 2500
+      },
+      {
+        "name": "FISHERMAN SOUP",
+        "category": "SOUP",
+        "price": 7000
+      },
+      {
+        "name": "OKRO SOUP",
+        "category": "SOUP",
+        "price": 2500
+      },
+      {
+        "name": "BITTERLEAF SOUP",
+        "category": "SOUP",
+        "price": 2500
+      },
+      {
+        "name": "WHITE SOUP",
+        "category": "SOUP",
+        "price": 3000
+      },
+      {
+        "name": "BANGA SOUP",
+        "category": "SOUP",
+        "price": 3000
+      },
+      {
+        "name": "AFANG SOUP",
+        "category": "SOUP",
+        "price": 2500
+      },
+      {
+        "name": "OGBONO SOUP",
+        "category": "SOUP",
+        "price": 2500
+      },
+      {
+        "name": "OHA SOUP",
+        "category": "SOUP",
+        "price": 2500
+      },
+
+
+      {
+        "name": "EKPANG NKUKWO",
+        "category": "NATIVES",
+        "price": 4000
+      },
+      {
+        "name": "ABACHA(WEEKEND SPECIAL)",
+        "category": "NATIVES",
+        "price": 2000
+      },
+      {
+        "name": "ISI EWU",
+        "category": "NATIVES",
+        "price": 8000
+      },
+      {
+        "name": "NKWOBI",
+        "category": "NATIVES",
+        "price": 4500
+      },
+      {
+        "name": "CHICKEN NKWOBI",
+        "category": "NATIVES",
+        "price": 5000
+      },
+      {
+        "name": "ASUN JOLLOF RICE",
+        "category": "NATIVES",
+        "price": 5000
+      },
+      {
+        "name": "CHEF SPECIAL RICE (BASMATIC)",
+        "category": "NATIVES",
+        "price": 7000
+      },
+      {
+        "name": "SURPRISE TRAY",
+        "category": "NATIVES",
+        "price": 15000
+      },
+
+
+
+
+
+ {
+      "name": "STEAMED BASMATI RICE WITH BEEF & MUSHROOM IN OYSTER SAUCE",
+      "category": "RICE",
+      "price": 6500
+    },
+    {
+      "name": "ORIENTAL FRIED RICE WITH BEEF & MUSHROOM IN OYSTER SAUCE",
+      "category": "RICE",
+      "price": 9000
+    },
+    {
+      "name": "STEAMED WHITE RICE WITH CHICKEN SAUCE",
+      "category": "RICE",
+      "price": 6000
+    },
+    {
+      "name": "STEAMED WHITE RICE WITH CHICKEN CASSEROLE",
+      "category": "RICE",
+      "price": 7000
+    },
+    {
+      "name": "OFADA RICE & SAUCE",
+      "category": "RICE",
+      "price": 6000
+    },
+    {
+      "name": "STEAMED BASMATIC RICE/BEEF/MUSHROOM IN OYSTER SAUCE",
+      "category": "RICE",
+      "price": 7000
+    },
+    {
+      "name": "JUMBO PRAWN SAUCE WITH BASMATI RICE",
+      "category": "RICE",
+      "price": 9500
+    },
+    {
+      "name": "STEAMED BASMATI RICE ONLY",
+      "category": "RICE",
+      "price": 2000
+    },
+    {
+      "name": "JOLLOF RICE",
+      "category": "RICE",
+      "price": 3000
+    },
+    {
+      "name": "HOGIS SPECIAL COCONUT RICE",
+      "category": "RICE",
+      "price": 3000
+    },
+    {
+      "name": "NATIVE RICE",
+      "category": "RICE",
+      "price": 3500
+    },
+    {
+      "name": "DIRTY RICE",
+      "category": "RICE",
+      "price": 3500
+    },
+    {
+      "name": "STEAMED WHITE RICE",
+      "category": "RICE",
+      "price": 1500
+    },
+    {
+      "name": "STEAMED BASMATIC WHITE RICE WITH CHICKEN SAUCE",
+      "category": "RICE",
+      "price": 6000
+    },
+    {
+      "name": "EGG FRIED RICE",
+      "category": "RICE",
+      "price": 4000
+    },
+    {
+      "name": "ORIENTAL FRIED RICE AND CHICKEN SAUCE",
+      "category": "RICE",
+      "price": 6500
+    },
+    {
+      "name": "CARROT RICE",
+      "category": "RICE",
+      "price": 3000
+    },
+    {
+      "name": "FRIED RICE",
+      "category": "RICE",
+      "price": 3000
+    },
+    {
+      "name": "HOGIS SPECIAL FRIED RICE(BASMATIC)",
+      "category": "RICE",
+      "price": 3500
+    },
+    {
+      "name": "COCONUT RICE (BASMATIC)",
+      "category": "RICE",
+      "price": 3000
+    },
+    {
+      "name": "BASMATI JOLLOF RICE",
+      "category": "RICE",
+      "price": 7500
+    },
+    {
+      "name": "SPECIAL FRIED RICE, SAUCED GOAT,BEEF,TURKEY OR GIZZARD",
+      "category": "RICE",
+      "price": 6500
+    },
+    {
+      "name": "CHINESE FRIED RICE",
+      "category": "RICE",
+      "price": 3500
+    },
+    {
+      "name": "WHITE SPAGETTI ONLY",
+      "category": "RICE",
+      "price": 1500
+    },
+    {
+      "name": "SEAFOOD RICE",
+      "category": "RICE",
+      "price": 6000
+    },
+    {
+      "name": "STEAMED BASMATIC RICE WITH CHICKEN, GOAT OR BEEF CURRY",
+      "category": "RICE",
+      "price": 6000
+    },
+    {
+      "name": "STEAMED BASMATIC RICE WITH SHREDED CHICKEN, DICED GOAT OR BEEF IN TOMATOE SAUCE",
+      "category": "RICE",
+      "price": 6000
+    },
+    {
+      "name": "SPAGHETTI BOLOGNAS",
+      "category": "RICE",
+      "price": 6000
+    },
+
+
+
+
+
+    {
+        "name": "SPECIAL CREAM PASTA",
+        "category": "SIGNATURE MEAL",
+        "price": 5000
+      },
+      {
+        "name": "SINGAPORE NOODLES",
+        "category": "SIGNATURE MEAL",
+        "price": 7500
+      },
+      {
+        "name": "SPAGHETTI CARBONARA WITH TURKEY OR GRILLED PORK CHOPS",
+        "category": "SIGNATURE MEAL",
+        "price": 8000
+      },
+      {
+        "name": "MASHED POTATOES, GRILLED FILLET STEAK, MUSHROOM SAUCE AND STEAMED VEGGIES",
+        "category": "SIGNATURE MEAL",
+        "price": 13000
+      },
+      {
+        "name": "HOGIS SPECIAL JOLLOF COMBO WITH EXTRA COCONUT RICE",
+        "category": "SIGNATURE MEAL",
+        "price": 17000
+      },
+      {
+        "name": "YAM PORRIDGE",
+        "category": "SIGNATURE MEAL",
+        "price": 2500
+      },
+      {
+        "name": "HOGIS SPECIAL JOLLOF COMBO",
+        "category": "SIGNATURE MEAL",
+        "price": 15000
+      },
+      {
+        "name": "GIZ DODO",
+        "category": "SIGNATURE MEAL",
+        "price": 4500
+      },
+      {
+        "name": "PLANTAIN PORRIDGE",
+        "category": "SIGNATURE MEAL",
+        "price": 3200
+      },
+      {
+        "name": "SNAIL DODO",
+        "category": "SIGNATURE MEAL",
+        "price": 6000
+      },
+      {
+        "name": "CHICKEN PASTA",
+        "category": "SIGNATURE MEAL",
+        "price": 10000
+      },
+      {
+        "name": "SPAGHETTI ARABIATA",
+        "category": "SIGNATURE MEAL",
+        "price": 9000
+      },
+
+
+
+
+
+
+      {
+        "name": "BUSH MEAT",
+        "category": "PROTEIN",
+        "price": 3000
+      },
+      {
+        "name": "DRYFISH",
+        "category": "PROTEIN",
+        "price": 3500
+      },
+      {
+        "name": "GIZZARD",
+        "category": "PROTEIN",
+        "price": 4000
+      },
+      {
+        "name": "CROAKER FISH",
+        "category": "PROTEIN",
+        "price": 4000
+      },
+      {
+        "name": "GOAT MEAT",
+        "category": "PROTEIN",
+        "price": 4500
+      },
+      {
+        "name": "BEEF",
+        "category": "PROTEIN",
+        "price": 3500
+      },
+      {
+        "name": "CHICKEN",
+        "category": "PROTEIN",
+        "price": 4000
+      },
+      {
+        "name": "CAT FISH",
+        "category": "PROTEIN",
+        "price": 4000
+      },
+      {
+        "name": "GRILLED BUFFALO TURKEY",
+        "category": "PROTEIN",
+        "price": 6000
+      },
+      {
+        "name": "ASSORTED MEAT",
+        "category": "PROTEIN",
+        "price": 2000
+      },
+      {
+        "name": "PEPPERED CATFISH",
+        "category": "PROTEIN",
+        "price": 4500
+      },
+      {
+        "name": "LARGE CROAKER FISH",
+        "category": "PROTEIN",
+        "price": 18000
+      },
+      {
+        "name": "STOCKFISH",
+        "category": "PROTEIN",
+        "price": 2000
+      },
+      {
+        "name": "DRY FISH",
+        "category": "PROTEIN",
+        "price": 4500
+      },
+      {
+        "name": "HOGIS SPECIAL SNAIL",
+        "category": "PROTEIN",
+        "price": 6000
+      },
+      {
+        "name": "SNAIL FOR MEALS",
+        "category": "PROTEIN",
+        "price": 6000
+      },
+      {
+        "name": "GRILLED FILLET STEAK",
+        "category": "PROTEIN",
+        "price": 6000
+      },
+      {
+        "name": "GRILLED PORK CHOPS",
+        "category": "PROTEIN",
+        "price": 5000
+      },
+      {
+        "name": "CHICKEN ESCALOPE",
+        "category": "PROTEIN",
+        "price": 4000
+      },
+      {
+        "name": "GRILLED PRAWNS",
+        "category": "PROTEIN",
+        "price": 8000
+      },
+      {
+        "name": "GRILLED FISH FILLETS",
+        "category": "PROTEIN",
+        "price": 7500
+      },
+      {
+        "name": "SAUCED PROTEIN WITH YAM OR POTATO CHIPS",
+        "category": "PROTEIN",
+        "price": 4000
+      },
+      {
+        "name": "GOAT MEAT (1 PIECE)",
+        "category": "PROTEIN",
+        "price": 1500
+      },
+      {
+        "name": "PEPPERED SNAIL KEBAB",
+        "category": "PROTEIN",
+        "price": 6000
+      },
+      {
+        "name": "SNAIL FOR MEALS",
+        "category": "PROTEIN",
+        "price": 3500
+      },
+      {
+        "name": "TILAPIA",
+        "category": "PROTEIN",
+        "price": 3500
+      },
+      {
+        "name": "GRILL GOAT",
+        "category": "PROTEIN",
+        "price": 1500
+      },
+      {
+        "name": "RAW GOAT MEAT HEAD",
+        "category": "PROTEIN",
+        "price": 2000
+      },
+      {
+        "name": "TURKEY",
+        "category": "PROTEIN",
+        "price": 6000
+      },
+
+
+
+
+
+
+      {
+        "name": "PEPPERED CROAKER FISH",
+        "category": "LIGHT MEAL",
+        "price": 4500
+      },
+      {
+        "name": "ASUN",
+        "category": "LIGHT MEAL",
+        "price": 3500
+      },
+      {
+        "name": "PEPPERED CRAB",
+        "category": "LIGHT MEAL",
+        "price": 3000
+      },
+      {
+        "name": "PEPPERED BEEF",
+        "category": "LIGHT MEAL",
+        "price": 4000
+      },
+      {
+        "name": "STICKY CHICKEN WINGS OR DRUM STICKS",
+        "category": "LIGHT MEAL",
+        "price": 4000
+      },
+      {
+        "name": "PEPPERED TURKEY",
+        "category": "LIGHT MEAL",
+        "price": 6000
+      },
+      {
+        "name": "PEPPERED GOAT MEAT",
+        "category": "LIGHT MEAL",
+        "price": 4500
+      },
+      {
+        "name": "GARLIC BUTTER PRAWNS",
+        "category": "LIGHT MEAL",
+        "price": 8000
+      },
+      {
+        "name": "CHICKEN NUGGETS",
+        "category": "LIGHT MEAL",
+        "price": 4000
+      },
+      {
+        "name": "PEPPERED GIZZARD",
+        "category": "LIGHT MEAL",
+        "price": 4500
+      },
+      {
+        "name": "SAUCED FISH WITH YAM OR POTATO CHIPS",
+        "category": "LIGHT MEAL",
+        "price": 4500
+      },
+      {
+        "name": "SAUCED SNAIL WITH SIDE CHIPS",
+        "category": "LIGHT MEAL",
+        "price": 6000
+      },
+      {
+        "name": "YAM OR POTATO CHIPS",
+        "category": "LIGHT MEAL",
+        "price": 1500
+      },
+      {
+        "name": "BUTTERFLY PRAWNS",
+        "category": "LIGHT MEAL",
+        "price": 8000
+      },
+      {
+        "name": "PEPPERED CHICKEN",
+        "category": "LIGHT MEAL",
+        "price": 4500
+      },
+      {
+        "name": "MOI MOI",
+        "category": "LIGHT MEAL",
+        "price": 700
+      },
+      {
+        "name": "FRIED PRAWN",
+        "category": "LIGHT MEAL",
+        "price": 7500
+      },
+
+
+
+
+      {
+        "name": "FULL VEGETABLE SALAD",
+        "category": "SALAD",
+        "price": 3500
+      },
+      {
+        "name": "COLESLAW",
+        "category": "SALAD",
+        "price": 1500
+      },
+      {
+        "name": "CHICKEN SALAD",
+        "category": "SALAD",
+        "price": 3500
+      },
+      {
+        "name": "BEEF SALAD",
+        "category": "SALAD",
+        "price": 3500
+      },
+      {
+        "name": "CEASAR SALAD",
+        "category": "SALAD",
+        "price": 3000
+      },
+      {
+        "name": "TOMATOE CUCUMBER CHACUMBA SALAD",
+        "category": "SALAD",
+        "price": 3000
+      },
+      {
+        "name": "FRUIT SALAD",
+        "category": "SALAD",
+        "price": 1500
+      },
+
+
+      {
+        "name": "GRILLED PORK KEBAB",
+        "category": "GRILLS",
+        "price": 2000
+      },
+      {
+        "name": "GRILLED RAM",
+        "category": "GRILLS",
+        "price": 2000
+      },
+      {
+        "name": "GOAT KEBAB (WITH YAM CHIPS, COLESLAW AND SAUCE)",
+        "category": "GRILLS",
+        "price": 3500
+      },
+      {
+        "name": "GRILLED TURKEY",
+        "category": "GRILLS",
+        "price": 4500
+      },
+      {
+        "name": "WHOLE GRILLED CHICKEN(WITH YAM CHIPS, COLESLAW AND SAUCE)",
+        "category": "GRILLS",
+        "price": 12000
+      },
+      {
+        "name": "GRILLED TURKEY GIZZARD (WITH FRENCH FRIES, COLESLAW AND SAUCE)",
+        "category": "GRILLS",
+        "price": 3000
+      },
+      {
+        "name": "GRILLED CATFISH WITH CHIPS, COLE SLAW AND SIDE SAUCE",
+        "category": "GRILLS",
+        "price": 5000
+      },
+      {
+        "name": "HOGIS BBQ FISH JUMBO",
+        "category": "GRILLS",
+        "price": 12000
+      },
+      {
+        "name": "GRILLED PRAWNS",
+        "category": "GRILLS",
+        "price": 8000
+      },
+      {
+        "name": "HALF GRILLED CHICKEN (WITH YAM CHIPS, COLESLAW AND SAUCE)",
+        "category": "GRILLS",
+        "price": 6000
+      },
+      {
+        "name": "JUMBO FISH (WITH FRENCH FIRES OR YAM CHIPS, ROAST PLANTAIN, COLESLAW AND SAUCE",
+        "category": "GRILLS",
+        "price": 15000
+      },
+      {
+        "name": "GRILLED TURKEY WING (WITH YAMCHIPS, COLESLAW AND SAUCE)",
+        "category": "GRILLS",
+        "price": 3500
+      },
+      {
+        "name": "GRILLED FISH (SS) WITH YAM CHIPS, COLESLAW AND SAUCE",
+        "category": "GRILLS",
+        "price": 5000
+      },
+      {
+        "name": "GRILLED FISH (MS) WITH YAM CHIPS, COLESLAW AND SAUCE",
+        "category": "GRILLS",
+        "price": 8000
+      },
+      {
+        "name": "GRILLED FISH (LS) WITH YAM CHIPS, COLESLAW AND SAUCE",
+        "category": "GRILLS",
+        "price": 10000
+      },
+      {
+        "name": "CHICKEN KEBAB",
+        "category": "GRILLS",
+        "price": 2000
+      },
+      {
+        "name": "MIXED GRILL LARGE",
+        "category": "GRILLS",
+        "price": 20000
+      },
+      {
+        "name": "SPECIAL BARBECUE FISH - MEDIUM",
+        "category": "GRILLS",
+        "price": 8000
+      },
+      {
+        "name": "GRILL PLATTER",
+        "category": "GRILLS",
+        "price": 15000
+      },
+      {
+        "name": "SMOKED GOAT",
+        "category": "GRILLS",
+        "price": 5000
+      },
+      {
+        "name": "GRILLED CATFISH",
+        "category": "GRILLS",
+        "price": 4000
+      },
+      {
+        "name": "GRILL COMBO",
+        "category": "GRILLS",
+        "price": 7000
+      },
+      {
+        "name": "PORK SMEARED WITH SPANISH SAUCE",
+        "category": "GRILLS",
+        "price": 5000
+      },
+      {
+        "name": "ROAST PLANTAIN",
+        "category": "GRILLS",
+        "price": 500
+      },
+      {
+        "name": "GRILLED TILAPIS FISH",
+        "category": "GRILLS",
+        "price": 5000
+      },
+      {
+        "name": "MEDIUM TILAPIA FISH",
+        "category": "GRILLS",
+        "price": 7000
+      },
+      {
+        "name": "PHILADELPHIA STEAK",
+        "category": "GRILLS",
+        "price": 11000
+      },
+      {
+        "name": "OLA-LA STEAK",
+        "category": "GRILLS",
+        "price": 9500
+      },
+      {
+        "name": "HOGIS SPECIAL STEAK",
+        "category": "GRILLS",
+        "price": 10000
+      },
+
+
+
+
+      {
+        "name": "ICE CREAM",
+        "category": "DESSERT",
+        "price": 1000
+      },
+      {
+        "name": "RED VELVET CAKE WITH ICE CREAM",
+        "category": "DESSERT",
+        "price": 1000
+      },
+      {
+        "name": "CREAM CARAMEL",
+        "category": "DESSERT",
+        "price": 1000
+      },
+      {
+        "name": "DARK COFFEE WITH CREAM",
+        "category": "DESSERT",
+        "price": 1000
+      },
+      {
+        "name": "GREEK SALAD WITH ITALIAN OR THOUSAND ISLAND DRESSING",
+        "category": "DESSERT",
+        "price": 2500
+      },
+      {
+        "name": "ROMANIAN SALAD WITH ITALIAN OR THOUSAND ISLAND DRESSING",
+        "category": "DESSERT",
+        "price": 3000
+      },
+      {
+        "name": "WALDORF SALAD",
+        "category": "DESSERT",
+        "price": 4000
+      },
+      {
+        "name": "FRUIT SALAD WITH ICE CREAM",
+        "category": "DESSERT",
+        "price": 4500
+      },
+      {
+        "name": "FRUIT PLATTER",
+        "category": "DESSERT",
+        "price": 6000
+      },
+      {
+        "name": "STUFF CREPE",
+        "category": "DESSERT",
+        "price": 5000
+      },
+
+
+
+
+      {
+        "name": "GARLIC SOUP",
+        "category": "APPETIZER",
+        "price": 2500
+      },
+      {
+        "name": "CHICKEN CREAM SOUP",
+        "category": "APPETIZER",
+        "price": 2500
+      },
+      {
+        "name": "MUSHROOM/CHICKEN SOUP",
+        "category": "APPETIZER",
+        "price": 2500
+      },
+      {
+        "name": "CHICKEN FEET DIPPED IN KAI SAUCE",
+        "category": "APPETIZER",
+        "price": 1500
+      },
+      {
+        "name": "CROSSIANT (ON ORDER)",
+        "category": "APPETIZER",
+        "price": 600
+      },
+      {
+        "name": "CRISPY SAMOSA (X4)",
+        "category": "APPETIZER",
+        "price": 1500
+      },
+      {
+        "name": "ASSORTED MEAT SOUP (STARTER)",
+        "category": "APPETIZER",
+        "price": 2500
+      },
+      {
+        "name": "CRISPY SPRING ROLL (X4)",
+        "category": "APPETIZER",
+        "price": 1500
+      },
+      {
+        "name": "GOLDEN FRIED CHICKEN BALLS_CHINESE STYLE SERVED WITH CHILLY SAUCE",
+        "category": "APPETIZER",
+        "price": 4500
+      },
+      {
+        "name": "FISH FINGERS",
+        "category": "APPETIZER",
+        "price": 5000
+      },
+      {
+        "name": "SPICY TURKEY GIZZARD BROCHETE",
+        "category": "APPETIZER",
+        "price": 7000
+      },
+      {
+        "name": "SPICY BUFFALO WINGS",
+        "category": "APPETIZER",
+        "price": 4500
+      },
+
+
+      {
+        "name": "LEMON CAKE",
+        "category": "PASTRY",
+        "price": 500
+      },
+      {
+        "name": "GOLDEN BUNS",
+        "category": "PASTRY",
+        "price": 250
+      },
+      {
+        "name": "HOGIS SIGNATURE SHAWARMA",
+        "category": "PASTRY",
+        "price": 2500
+      },
+      {
+        "name": "BEEF SHAWARMA",
+        "category": "PASTRY",
+        "price": 3000
+      },
+      {
+        "name": "SPECIAL SHAWARMA",
+        "category": "PASTRY",
+        "price": 3500
+      },
+      {
+        "name": "VEGAN ROLL",
+        "category": "PASTRY",
+        "price": 350
+      },
+      {
+        "name": "BREAD ROLLS",
+        "category": "PASTRY",
+        "price": 500
+      },
+      {
+        "name": "VEGETERIAN SHAWARMA",
+        "category": "PASTRY",
+        "price": 1000
+      },
+      {
+        "name": "CHICKEN BURGER(DOUBLE DECKER)",
+        "category": "PASTRY",
+        "price": 5000
+      },
+      {
+        "name": "BEEF BURGER(DOUBLE DECKER)",
+        "category": "PASTRY",
+        "price": 5000
+      },
+      {
+        "name": "BEEF BURGER(SINGLE)",
+        "category": "PASTRY",
+        "price": 3000
+      },
+      {
+        "name": "BURGER BREAD",
+        "category": "PASTRY",
+        "price": 800
+      },
+      {
+        "name": "BUTTERED BREAD",
+        "category": "PASTRY",
+        "price": 1200
+      },
+      {
+        "name": "GUINESS CAKE",
+        "category": "PASTRY",
+        "price": 500
+      },
+      {
+        "name": "MEAT PIE",
+        "category": "PASTRY",
+        "price": 700
+      },
+      {
+        "name": "CHICKEN PIE",
+        "category": "PASTRY",
+        "price": 800
+      },
+      {
+        "name": "SMOOTHIE",
+        "category": "PASTRY",
+        "price": 2000
+      },
+      {
+        "name": "WHEAT BREAD",
+        "category": "PASTRY",
+        "price": 1500
+      },
+      {
+        "name": "SAUSAGE SHAWARMA",
+        "category": "PASTRY",
+        "price": 1500
+      },
+      {
+        "name": "POPCORN",
+        "category": "PASTRY",
+        "price": 500
+      },
+      {
+        "name": "CHICKEN SHAWARMA",
+        "category": "PASTRY",
+        "price": 3000
+      },
+      {
+        "name": "GOAT MEAT SHAWARMA",
+        "category": "PASTRY",
+        "price": 3000
+      },
+      {
+        "name": "COOKIES",
+        "category": "PASTRY",
+        "price": 500
+      },
+      {
+        "name": "CHICKEN SANDWICH",
+        "category": "PASTRY",
+        "price": 2000
+      },
+      {
+        "name": "SMALL CHOP",
+        "category": "PASTRY",
+        "price": 2500
+      },
+      {
+        "name": "BUTTER CREAM CAKE",
+        "category": "PASTRY",
+        "price": 500
+      },
+      {
+        "name": "SMALL CHOP(S)",
+        "category": "PASTRY",
+        "price": 1500
+      },
+      {
+        "name": "PORK SHAWARMA",
+        "category": "PASTRY",
+        "price": 3000
+      },
+      {
+        "name": "BEEF PIE",
+        "category": "PASTRY",
+        "price": 700
+      },
+      {
+        "name": "RED VELVET CAKE",
+        "category": "PASTRY",
+        "price": 700
+      },
+      {
+        "name": "SPRING ROLLS(CHICKEN & CHIPS)",
+        "category": "PASTRY",
+        "price": 4500
+      },
+      {
+        "name": "CLASSIC BREAD",
+        "category": "PASTRY",
+        "price": 1200
+      },
+      {
+        "name": "CHICKEN SANDWICH",
+        "category": "PASTRY",
+        "price": 700
+      },
+      {
+        "name": "CUPCAKE",
+        "category": "PASTRY",
+        "price": 300
+      },
+      {
+        "name": "JUMBO BREAD",
+        "category": "PASTRY",
+        "price": 1800
+      },
+      {
+        "name": "DOUGHNUT",
+        "category": "PASTRY",
+        "price": 350
+      },
+      {
+        "name": "CHOCOLATE MOIST CAKE",
+        "category": "PASTRY",
+        "price": 700
+      },
+      {
+        "name": "CAPPACINNO CHEESE CAKE",
+        "category": "PASTRY",
+        "price": 500
+      },
+      {
+        "name": "MOIST MUFFINS",
+        "category": "PASTRY",
+        "price": 500
+      },
+      {
+        "name": "HOGIS SPONGE",
+        "category": "PASTRY",
+        "price": 500
+      },
+      {
+        "name": "CAPPUCCINO",
+        "category": "PASTRY",
+        "price": 1500
+      },
+      {
+        "name": "RAINBOW CAKE",
+        "category": "PASTRY",
+        "price": 700
+      },
+      {
+        "name": "SAUSAGE ROLL",
+        "category": "PASTRY",
+        "price": 400
+      },
+      {
+        "name": "MAIZEN DOUGHNUT",
+        "category": "PASTRY",
+        "price": 300
+      },
+      {
+        "name": "YELLY DOUGHNUT",
+        "category": "PASTRY",
+        "price": 300
+      },
+      {
+        "name": "MILKY DOUGHNUT X6",
+        "category": "PASTRY",
+        "price": 6500
+      },
+      {
+        "name": "MILKY DOUGHNUT X3",
+        "category": "PASTRY",
+        "price": 3500
+      },
+      {
+        "name": "MILKY DOUGHNUT X2",
+        "category": "PASTRY",
+        "price": 2500
+      },
+      {
+        "name": "MILKY DOUGHNUT X1",
+        "category": "PASTRY",
+        "price": 1000
+      },
+      {
+        "name": "CLUB SANDWICH",
+        "category": "PASTRY",
+        "price": 2500
+      },
+      {
+        "name": "BIG SARDINE BREAD",
+        "category": "PASTRY",
+        "price": 1500
+      },
+      {
+        "name": "CARROT CAKE",
+        "category": "PASTRY",
+        "price": 1000
+      },
+      {
+        "name": "EXOTIC CAKE",
+        "category": "PASTRY",
+        "price": 500
+      },
+      {
+        "name": "COCONUT CAKE",
+        "category": "PASTRY",
+        "price": 700
+      },
+      {
+        "name": "MAIZEN CAKE",
+        "category": "PASTRY",
+        "price": 350
+      },
+      {
+        "name": "SCOTCHED EGG",
+        "category": "PASTRY",
+        "price": 500
+      },
+      {
+        "name": "GIZZARD SHAWARMA",
+        "category": "PASTRY",
+        "price": 3500
+      },
+      {
+        "name": "FISH PIE",
+        "category": "PASTRY",
+        "price": 600
+      },
+      {
+        "name": "SAUSAGE ROLL",
+        "category": "PASTRY",
+        "price": 500
+      },
+      {
+        "name": "SANDWICH",
+        "category": "PASTRY",
+        "price": 2000
+      },
+      {
+        "name": "CHOCOLATE BARS",
+        "category": "PASTRY",
+        "price": 300
+      },
+      {
+        "name": "FRUIT CAKE",
+        "category": "PASTRY",
+        "price": 700
+      },
+      {
+        "name": "JUMBO SANDWICH",
+        "category": "PASTRY",
+        "price": 2000
+      },
+      {
+        "name": "CHICKEN THRILL",
+        "category": "PASTRY",
+        "price": 2000
+      },
+      {
+        "name": "COCONUT BREAD",
+        "category": "PASTRY",
+        "price": 1600
+      },
+      {
+        "name": "TEABREAK (SMALL CHOPS WITH PROTEIN AND TEA OR COFEEWITH P",
+        "category": "PASTRY",
+        "price": 3000
+      },
+      {
+        "name": "HOGIS SPECIAL CAKE",
+        "category": "PASTRY",
+        "price": 700
+      },
+      {
+        "name": "SMALL CUP CAKES",
+        "category": "PASTRY",
+        "price": 200
+      },
+      {
+        "name": "MINI CHOPS",
+        "category": "PASTRY",
+        "price": 1000
+      },
+      {
+        "name": "EXTRA SPECIAL SHAWARMA",
+        "category": "PASTRY",
+        "price": 4000
+      },
+      {
+        "name": "FRESH BREAD",
+        "category": "PASTRY",
+        "price": 700
+      },
+      {
+        "name": "TOAST BREAD",
+        "category": "PASTRY",
+        "price": 700
+      },
+
+
+      {
+        "name": "HOGIS STIR FRIED NOODLES & EGG",
+        "category": "BREAKFAST",
+        "price": 3700
+      },
+      {
+        "name": "JOLLOF SPAGHETTI",
+        "category": "BREAKFAST",
+        "price": 2500
+      },
+      {
+        "name": "SINGAPORE NOODLE",
+        "category": "BREAKFAST",
+        "price": 7500
+      },
+      {
+        "name": "SEA FOOD PASTA",
+        "category": "BREAKFAST",
+        "price": 9000
+      },
+      {
+        "name": "SPAGHETTI BOLOGNESE",
+        "category": "BREAKFAST",
+        "price": 6500
+      },
+      {
+        "name": "MOI MOI WITH PAP OR CUSTARD",
+        "category": "BREAKFAST",
+        "price": 2500
+      },
+      {
+        "name": "BOILED YAM WITH EGG SAUCE",
+        "category": "BREAKFAST",
+        "price": 3500
+      },
+      {
+        "name": "ENGLISH YAM PORRIDGE",
+        "category": "BREAKFAST",
+        "price": 2500
+      },
+      {
+        "name": "NOODLES",
+        "category": "BREAKFAST",
+        "price": 2500
+      },
+      {
+        "name": "TEA/BEVERAGE",
+        "category": "BREAKFAST",
+        "price": 800
+      },
+      {
+        "name": "SPICY YAM CHIPS WITH MACKEREL FISH SAUCE",
+        "category": "BREAKFAST",
+        "price": 4500
+      },
+      {
+        "name": "BOILED YAM WITH MACKEREL FISH SAUCE",
+        "category": "BREAKFAST",
+        "price": 4500
+      },
+      {
+        "name": "HOGIS SPECIAL ENGLISH BREAKFAST",
+        "category": "BREAKFAST",
+        "price": 6000
+      },
+      {
+        "name": "BOILED YAM",
+        "category": "BREAKFAST",
+        "price": 1500
+      },
+      {
+        "name": "BOILED PLANTAIN",
+        "category": "BREAKFAST",
+        "price": 1000
+      },
+      {
+        "name": "BOILED POTATOES",
+        "category": "BREAKFAST",
+        "price": 1500
+      },
+      {
+        "name": "BOILED EGG",
+        "category": "BREAKFAST",
+        "price": 1000
+      },
+      {
+        "name": "FRIED PLANTAIN AND EGG SAUCE",
+        "category": "BREAKFAST",
+        "price": 2000
+      },
+      {
+        "name": "NOODLES & OMELLETE",
+        "category": "BREAKFAST",
+        "price": 3700
+      },
+      {
+        "name": "CHICKEN SAUCE",
+        "category": "BREAKFAST",
+        "price": 2000
+      },
+      {
+        "name": "ON ORDER EXTRA (PANCAKE, WAFFLES, SANDWICH TOAST)",
+        "category": "BREAKFAST",
+        "price": 2000
+      },
+      {
+        "name": "CUSTARD WITH AKARA",
+        "category": "BREAKFAST",
+        "price": 1500
+      },
+      {
+        "name": "BREAD (BREAKFAST)",
+        "category": "BREAKFAST",
+        "price": 500
+      },
+      {
+        "name": "HOGIS STIR FRIED SPAGHETTI OR MACARONI",
+        "category": "BREAKFAST",
+        "price": 3000
+      },
+      {
+        "name": "CUSTARD",
+        "category": "BREAKFAST",
+        "price": 500
+      },
+      {
+        "name": "SPICY YAM CHIPS WITH EGG SAUCE",
+        "category": "BREAKFAST",
+        "price": 3500
+      },
+      {
+        "name": "OMELETTE",
+        "category": "BREAKFAST",
+        "price": 1200
+      },
+      {
+        "name": "BREAD AND TEA",
+        "category": "BREAKFAST",
+        "price": 1000
+      },
+      {
+        "name": "SWEET POTATOE",
+        "category": "BREAKFAST",
+        "price": 500
+      },
+      {
+        "name": "BREAKFAST BUFFET",
+        "category": "BREAKFAST",
+        "price": 7000
+      },
+      {
+        "name": "SCRAMBlED EGGS",
+        "category": "BREAKFAST",
+        "price": 1200
+      },
+
+
+
+
+      {
+        "name": "HOGIS HOT CHOCOLATE",
+        "category": "COFFEE/TEA",
+        "price": 1500
+      },
+      {
+        "name": "EXPRESSO DOPPIO(DOUBLE SHOT OF EXPRESSO)",
+        "category": "COFFEE/TEA",
+        "price": 1500
+      },
+      {
+        "name": "EXPRESSO(SINGLE SHOT OF EXPRESSO)",
+        "category": "COFFEE/TEA",
+        "price": 1000
+      },
+      {
+        "name": "SHORT MACHIATTO(SINGLE SHOT EXPRESSO + FULL CREAM MILKY FOAM (STAINED))",
+        "category": "COFFEE/TEA",
+        "price": 1000
+      },
+      {
+        "name": "LONG MACHIATTO (DOUBLE SHOT OF EXPRESSO + 83G FULL CREAM MILKY FOAM (STAINED) )",
+        "category": "COFFEE/TEA",
+        "price": 1500
+      },
+      {
+        "name": "AFFOGATO CHOCO LATTE (SINGLE SHOT OF EXPRESSO + A ROLL OF VANILLA ICE CREAM )",
+        "category": "COFFEE/TEA",
+        "price": 1500
+      },
+      {
+        "name": "HOT CHOCOLATE(CHOCOLATE + EVAPORATED MILK SPRAYED WITH WHIPPED CREAM)",
+        "category": "COFFEE/TEA",
+        "price": 1500
+      },
+      {
+        "name": "CHOC MOCHA(CHOCOLATE + DOUBLE EXPRESSO WITH EVAPORATED MILK SPRAYED WITH WHIPPED CREAM)",
+        "category": "COFFEE/TEA",
+        "price": 2000
+      },
+      {
+        "name": "VIENNA(DOUBLE SHOT OF EXPRESSO SPRAYED WITH WHIPPED CREAM)",
+        "category": "COFFEE/TEA",
+        "price": 1500
+      },
+      {
+        "name": "ICED COFFEE (FRESH COFFEE SPRAYED WITH WHIPPED CREAM, SERVED WITH VANILLA ICE CREAM)",
+        "category": "COFFEE/TEA",
+        "price": 2000
+      },
+      {
+        "name": "AMERICAN HOT CHOCOLATE",
+        "category": "COFFEE/TEA",
+        "price": 1500
+      },
+      {
+        "name": "ITALIAN HOT CHOCOLATE",
+        "category": "COFFEE/TEA",
+        "price": 2000
+      },
+      {
+        "name": "GREEN TEA",
+        "category": "COFFEE/TEA",
+        "price": 500
+      }
+
+
+
+
+
+
+
+      
+
+
+      
+  ]
+  

@@ -1,0 +1,22 @@
+/* RecipeCard.css */
+
+.recipe-card {
+    width: 200px;
+  }
+
+  .recipe-card h3 {
+    font-size: .85rem;
+  }
+  
+  .recipe-card img {
+    width: 160px;
+    border-radius: 10px;
+  }
+  
+  .recipe-info {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.8rem;
+    color: #666;
+  }
+  

@@ -1,0 +1,26 @@
+/* Recommended.css */
+
+h3 {
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+.recommended {
+   margin: 1em 0;
+   width: 100%;
+ 
+  }
+  
+  .recipe-list {
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+    margin: .5em 0;
+    
+  }
+  
+  .recipe-list .see-more {
+    align-self: center;
+    color: #4CAF50;
+  }
+  
