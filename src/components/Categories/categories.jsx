@@ -27,24 +27,25 @@ const Categories = ({ addToCart }) => {
       const items = menuItemsData.filter(item => item.category.toUpperCase() === category.toUpperCase());
       return { items };
     }
-
+  
     try {
       const itemsCollection = collection(db, 'menu_items');
-      let q = query(itemsCollection, 
-        orderBy('category'), 
-        orderBy('name')
-      );
-
+      let q = query(itemsCollection, orderBy('name'));
+  
       const querySnapshot = await getDocs(q);
-
+  
       if (querySnapshot.empty) {
         console.warn(`No documents found for category: ${category}`);
         return { items: [] };
       } else {
-        const items = querySnapshot.docs.map(doc => ({
+        const allItems = querySnapshot.docs.map(doc => ({
           id: doc.id,
           ...doc.data()
         }));
+        
+        // Filter items by category on the client side
+        const items = allItems.filter(item => item.category.toUpperCase() === category.toUpperCase());
+        
         return { items };
       }
     } catch (error) {
@@ -55,7 +56,7 @@ const Categories = ({ addToCart }) => {
     }
   }, [useJsonFallback]);
 
-  const loadCategoryData = useCallback(async (category) => {
+    const loadCategoryData = useCallback(async (category) => {
     const cachedData = localStorage.getItem(`menuItems_${category}`);
     const cachedTimestamp = localStorage.getItem(`menuItems_${category}_timestamp`);
     
@@ -134,21 +135,28 @@ const Categories = ({ addToCart }) => {
 
   return (
     <section className="categories">
-      {error && <div className="error-message">{error}</div>}
-      <div className='categories-info'>
-        <h3>Categories</h3>
-        <button onClick={toggleView} className="view-toggle">
-          {isGridView ? <IoList className='list'/> : <IoGrid />}
-        </button>
-      </div>
-      <div className={`category-container ${isGridView ? 'grid-view' : 'list-view'}`}>
-        {displayedCategories.map((category) => (
-          <div key={category.title} className="category" onClick={() => openModal(category.title)}>
-            <img src={`${PUBLIC_URL}/${category.image}`} alt={category.title} className="category-image" />
-            <span className="category-title">{category.title}</span>
-          </div>
-        ))}
-      </div>
+    {error && <div className="error-message">{error}</div>}
+    <div className='categories-info'>
+      <h3>Categories</h3>
+      <button onClick={toggleView} className="view-toggle">
+        {isGridView ? <IoList className='list'/> : <IoGrid />}
+      </button>
+    </div>
+    <div className={`category-container ${isGridView ? 'grid-view' : 'list-view'}`}>
+      {displayedCategories.map((category) => (
+        <div key={category.title} className="category" onClick={() => openModal(category.title)}>
+            <img 
+              src={category.image} 
+              alt={category.title} 
+              className="category-image" 
+              onError={(e) => {
+                console.error(`Error loading image for ${category.title}:`, e.target.src);
+              }}
+      />
+                <span className="category-title">{category.title}</span>
+        </div>
+      ))}
+    </div>
       {isGridView && (
         <div className="pagination">
           {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => (

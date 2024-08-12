@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { IoCart, IoRemove, IoAdd, IoTrash } from 'react-icons/io5';
 import { toast } from 'react-toastify';
@@ -22,14 +22,10 @@ export const ShoppingCartIcon = () => {
 };
 
 export const ShoppingCartPage = () => {
-  const { cartItems, updateQuantity, removeItem } = useShoppingCart();
+  const { cartItems, incrementQuantity, decrementQuantity, removeItem } = useShoppingCart();
   const navigate = useNavigate();
   const [isHogisGuest, setIsHogisGuest] = useState(null);
   const [deliveryOption, setDeliveryOption] = useState('');
-
-  useEffect(() => {
-    console.log('ShoppingCartPage - Cart items:', cartItems);
-  }, [cartItems]);
 
   const hogisLocations = {
     'Room Service': 0,
@@ -61,15 +57,8 @@ export const ShoppingCartPage = () => {
     })}`;
   };
 
-  const handleUpdateQuantity = (itemId, newQuantity) => {
-    updateQuantity(itemId, newQuantity);
-    toast.success('Cart updated successfully!', {
-      onClick: () => navigate('/cart')
-    });
-  };
-
-  const handleRemoveItem = (itemId) => {
-    removeItem(itemId);
+  const handleRemoveItem = (cartItemId) => {
+    removeItem(cartItemId);
     toast.info('Item removed from cart.', {
       onClick: () => navigate('/cart')
     });
@@ -93,21 +82,21 @@ export const ShoppingCartPage = () => {
           <div className="cart-items-container">
             <ul className="cart-items">
               {cartItems.map((item) => (
-                <li key={`${item.id}-${item.name}`} className="cart-item">
+                <li key={item.cartItemId} className="cart-item">
                   <div className="item-details">
                     <span className="item-name">{item.name}</span>
                     <div className="item-actions">
                       <div className="quantity-control">
-                        <button onClick={() => handleUpdateQuantity(item.id, item.quantity - 1)} className="quantity-btn">
+                        <button onClick={() => decrementQuantity(item.cartItemId)} className="quantity-btn">
                           <IoRemove />
                         </button>
                         <span className="quantity">{item.quantity}</span>
-                        <button onClick={() => handleUpdateQuantity(item.id, item.quantity + 1)} className="quantity-btn">
+                        <button onClick={() => incrementQuantity(item.cartItemId)} className="quantity-btn">
                           <IoAdd />
                         </button>
                       </div>
                       <span className="item-price">{formatPrice(item.price * item.quantity)}</span>
-                      <button onClick={() => handleRemoveItem(item.id)} className="remove-btn">
+                      <button onClick={() => handleRemoveItem(item.cartItemId)} className="remove-btn">
                         <IoTrash />
                       </button>
                     </div>

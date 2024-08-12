@@ -18,7 +18,6 @@ export const ShoppingCartProvider = ({ children }) => {
         setCartItems([]);
       }
     });
-
     return () => unsubscribe();
   }, []);
 
@@ -37,9 +36,7 @@ export const ShoppingCartProvider = ({ children }) => {
   const saveCartToFirebase = async (updatedCart) => {
     if (user) {
       try {
-        await updateDoc(doc(db, 'users', user.uid), {
-          cart: updatedCart
-        });
+        await updateDoc(doc(db, 'users', user.uid), { cart: updatedCart });
       } catch (error) {
         console.error('Error saving cart to Firebase:', error);
       }
@@ -47,27 +44,27 @@ export const ShoppingCartProvider = ({ children }) => {
   };
 
   const addToCart = async (item) => {
-    const uniqueId = `${item.id}-${Date.now()}`;
-    const newItem = { ...item, uniqueId, quantity: 1 };
+    const cartItemId = `${item.id}-${Date.now()}`;
+    const newItem = { ...item, cartItemId, quantity: 1 };
     const updatedCart = [...cartItems, newItem];
     setCartItems(updatedCart);
     await saveCartToFirebase(updatedCart);
   };
 
-  const updateQuantity = async (uniqueId, newQuantity) => {
+  const updateQuantity = async (cartItemId, newQuantity) => {
     if (newQuantity > 0) {
       const updatedCart = cartItems.map((item) =>
-        item.uniqueId === uniqueId ? { ...item, quantity: newQuantity } : item
+        item.cartItemId === cartItemId ? { ...item, quantity: newQuantity } : item
       );
       setCartItems(updatedCart);
       await saveCartToFirebase(updatedCart);
     } else {
-      await removeItem(uniqueId);
+      await removeItem(cartItemId);
     }
   };
 
-  const removeItem = async (uniqueId) => {
-    const updatedCart = cartItems.filter((item) => item.uniqueId !== uniqueId);
+  const removeItem = async (cartItemId) => {
+    const updatedCart = cartItems.filter((item) => item.cartItemId !== cartItemId);
     setCartItems(updatedCart);
     await saveCartToFirebase(updatedCart);
   };
@@ -81,11 +78,32 @@ export const ShoppingCartProvider = ({ children }) => {
     if (user) {
       try {
         await updateDoc(doc(db, 'users', user.uid), {
-          orderHistory: arrayUnion(order)
+          orderHistory: arrayUnion(order),
         });
       } catch (error) {
         console.error('Error adding to order history:', error);
       }
+    }
+  };
+
+  const incrementQuantity = async (cartItemId) => {
+    const updatedCart = cartItems.map((item) =>
+      item.cartItemId === cartItemId ? { ...item, quantity: item.quantity + 1 } : item
+    );
+    setCartItems(updatedCart);
+    await saveCartToFirebase(updatedCart);
+  };
+
+  const decrementQuantity = async (cartItemId) => {
+    const item = cartItems.find((item) => item.cartItemId === cartItemId);
+    if (item.quantity > 1) {
+      const updatedCart = cartItems.map((item) =>
+        item.cartItemId === cartItemId ? { ...item, quantity: item.quantity - 1 } : item
+      );
+      setCartItems(updatedCart);
+      await saveCartToFirebase(updatedCart);
+    } else {
+      await removeItem(cartItemId);
     }
   };
 
@@ -97,7 +115,9 @@ export const ShoppingCartProvider = ({ children }) => {
         updateQuantity,
         removeItem,
         clearCart,
-        addToOrderHistory
+        addToOrderHistory,
+        incrementQuantity,
+        decrementQuantity,
       }}
     >
       {children}
